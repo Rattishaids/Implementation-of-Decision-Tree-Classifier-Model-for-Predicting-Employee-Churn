@@ -22,8 +22,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: GAUTHAM KRISHNA S
-RegisterNumber:  212223240036
+Developed by: RATTISH KUMAR SS
+RegisterNumber:  212224230223
 */
 ```
 ```py
